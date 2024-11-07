@@ -18,7 +18,7 @@ function Login() {
 
   return (
     <Container>
-      <div className="mx-auto max-w-96 items-center justify-center h-screen flex flex-col gap-5">
+      <div className="mx-auto max-w-96 items-center justify-center h-screen flex flex-col gap-5 text-textcolor">
         <Heading level={1}>LOGIN</Heading>
         <div className="text-start w-full flex flex-col gap-2">
           <Heading level={6}>Enter Phone Number</Heading>

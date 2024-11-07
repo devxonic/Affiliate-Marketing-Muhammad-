@@ -5,6 +5,7 @@
 :root {
   --primary: #155F5B;
   --secondary: #171717;
+  --textcolor: #5c635e;
 }
 
 /* @media (prefers-color-scheme: dark) {
