@@ -14,6 +14,7 @@ const config: Config = {
       colors: {
         primary: "var(--primary)",
         secondary: "var(--secondary)",
+        textcolor: "var(--textcolor)"
       },
     },
   },

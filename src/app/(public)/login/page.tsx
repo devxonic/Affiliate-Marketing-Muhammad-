@@ -3,7 +3,7 @@ import Login from "./login";
 
 export default async function page() {
   return (
-    <div>
+    <div className="min-h-screen text-textcolor justify-center">
       <Login />
     </div>
   );
