@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./home";
 import Header from "@/components/Base/Header";
-import CategoriesContainer from "@/components/CategoriesContainer";
+import CategoriesContainer from "@/components/CategorySectionBanner";
 
 export default async function page() {
   return (
